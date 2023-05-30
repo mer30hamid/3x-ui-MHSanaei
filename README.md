@@ -18,4 +18,4 @@ I manage versions and changes for my personal use to control features and bugfix
                                          +--------------+
 ```
 
-I have created a branch from v1.6.1 tag and named it Strat_from_v1.6.1
+I have created a branch from v1.6.1 tag and named it `Strat_from_v1.6.1`
