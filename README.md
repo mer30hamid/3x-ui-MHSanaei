@@ -4,9 +4,9 @@ I manage versions and changes for my personal use to control features and bugfix
 
 
 ```text
-                        +----+  +----+  +----+           
-     My Versioning:  v. | 1  |. | 1  |. | x  <---+       
-                        +----+  +----+  +----+   |       
+                            +----+  +----+  +----+           
+     My Versioning:  myf-v. | 1  |. | 1  |. | x  <---+       
+                            +----+  +----+  +----+   |       
                                     ^            |       
                                     |            |       
                                     |    +--------------+
